@@ -1,0 +1,14 @@
+{
+  "broker": "YOUR_IP_ADDRESS",
+  "client_user": "your_client_username",
+  "client_pass": "your_client_password",
+  "brokerport": "your_broker_port_number",
+  "client_id": "your_mqtt_client_id",
+  "sub_topic": "SWITCH",
+  "pub_topic": "STATE",
+  "pub_status": "RES",
+  "keepalive": 60
+}
+
+
+
